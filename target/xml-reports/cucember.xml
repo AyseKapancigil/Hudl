@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.785">
+    <testcase classname="login_feature" name="logIn_with_valid_credentials" time="8.668">
+        <system-out>
+            <![CDATA[Given user opens the URL "https://www.hudl.com".............................passed
+When user navigate the login page...........................................passed
+And user enters email as "aysekapancigil@gmail.com" and password as "Ayse1985" and click on login button.passed
+Then verify the login is successful.........................................passed
+And capture the screenshot..................................................passed
+Then close the application..................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

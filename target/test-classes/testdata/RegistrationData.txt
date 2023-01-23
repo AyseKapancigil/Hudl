@@ -1,0 +1,2 @@
+LogInPojo{email='aysekapancigil@gmail.com', password='Ayse1985'}
+LogInPojo{email='aysekapancigil@gmail.com', password='Ayse1985'}
